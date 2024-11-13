@@ -1,0 +1,2 @@
+Bifrostで使用するFaceConstraintノードです。
+mesh情報とfaceナンバーを入力すればそのfaceにConstraintするMatrixが出力されます。
